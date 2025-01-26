@@ -93,16 +93,16 @@ const App = () => {
     <div className="container">
       <form onSubmit={submit}>
         <BsPerson className="icon" />
-        <h1>𝙹𝙾𝚎𝚕 𝚖𝚍 𝚙𝚊𝚒𝚛 𝚌𝚘𝚍𝚎</h1>
+        <h1>ᴊᴏᴇʟ ᴍᴅ ᴘᴀɪʀ ᴄᴏᴅᴇ</h1>
         {res.status && (
           <Alert variant={res.is}>
             {res.msg}
           </Alert>
         )}
-        <label>𝚒𝚗𝚝𝚎𝚛 𝚢𝚘𝚞𝚛 𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛 𝚠𝚒𝚝𝚑 𝚌𝚘𝚞𝚗𝚝𝚛𝚢 𝚌𝚘𝚍𝚎</label>
+        <label>ɪɴᴛᴇʀ ʏᴏᴜʀ ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ᴡɪᴛʜ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ</label>
         <input
           type="number"
-          placeholder="𝚎𝚐.2557145650xx"
+          placeholder="ᴇɢ.2557145650xx"
           value={ipt}
           onChange={(e) => setIpt(e.target.value)}
         />
