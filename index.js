@@ -164,7 +164,7 @@ async function startnigg(phone) {
           await xlicon.sendMessage(
             xlicon.user.id,
             {
-              text: 'HERE IS YOUR SESSION ID\n\nBY JOEL TECH',
+              text: '*joel-md connected successfully*\n\n*contact me*\nhttps://wa.me/255714595078\n\n*Whatsapp Channel*\nhttps://whatsapp.com/channel/0029Vak2PevK0IBh2pKJPp2K\n\n*Support Groups*\nhttps://whatsapp.com/channel/0029Vak2PevK0IBh2pKJPp2K',
             },
             { quoted: guru }
           )
