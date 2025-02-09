@@ -164,7 +164,7 @@ async function startnigg(phone) {
           await xlicon.sendMessage(
             xlicon.user.id,
             {
-              text: '*joel-md connected successfully*\n\n*contact me*\nhttps://wa.me/255714595078\n\n*Whatsapp Channel*\nhttps://whatsapp.com/channel/0029Vak2PevK0IBh2pKJPp2K\n\n*Support Groups*\nhttps://whatsapp.com/channel/0029Vak2PevK0IBh2pKJPp2K',
+              text: '*🄲🄰🅂🄿🄴🅁-🅇🄼🄳 😎 connected successfully 😃*\n\n*contact me*\nhttps://wa.me/254732982940\n\n*Whatsapp Channel*\nhttps://whatsapp.com/channel/0029VazABxMJZg40sEZBX242\n\n*Support Groups*\nhttps://whatsapp.com/channel/0029VazABxMJZg40sEZBX242\n\n>BOT REPO\nhttps://github.com/Traby-qriz/CASPER-XMD\n\n>POWERED BY 𝖢𝖠𝖲𝖯𝖤𝖱 𝖳𝖤𝖢𝖧',
             },
             { quoted: guru }
           )
